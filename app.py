@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 import pymysql
 import os
-import requests  # Para realizar llamadas al módulo Notas de Venta
+import requests  # Para realizar llamadas al módulo Notas de Ventas
 
 app = Flask(__name__)
 
