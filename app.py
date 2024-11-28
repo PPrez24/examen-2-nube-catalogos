@@ -12,7 +12,7 @@ db_password = os.getenv("DB_PASSWORD")
 db_name = os.getenv("DB_NAME")
 
 # URL del módulo Notas de Venta
-NOTAS_VENTA_URL = "http://notas-venta:5001"
+NOTAS_VENTA_URL = "http://54.227.2.141:5001"
 
 db = pymysql.connect(
     host=db_host,
