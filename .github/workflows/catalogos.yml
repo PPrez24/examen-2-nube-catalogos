@@ -1,4 +1,4 @@
-name: Build and Push to ECR - Catalogos
+name: Build and Push to ECR - Modulo Catalogos
 
 on:
   push:
